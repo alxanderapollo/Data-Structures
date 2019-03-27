@@ -1,0 +1,73 @@
+
+First Name: ALEX 
+Last Name: SALAZAR 
+Social Security number: 111222333 
+Checking Account Number: 976495 
+Credit Account Number: 511654 
+Checking Account Balance: 1490.3
+Credit Account Balance: 50.0 
+Credit Limit : 500.0
+
+First Name: CAMI 
+Last Name: SALAZAR 
+Social Security number: 202020202 
+Checking Account Number: 643160 
+Credit Account Number: 218698 
+Checking Account Balance: 2700.0
+Credit Account Balance: 300.0 
+Credit Limit : 1000.0
+
+First Name: Thomas 
+Last Name: Anderson 
+Social Security number: 333333333 
+Checking Account Number: 716887 
+Credit Account Number: 610758 
+Checking Account Balance: 200.0
+Credit Account Balance: 0.0 
+Credit Limit : 250.0
+
+First Name: Luz 
+Last Name: SALAZAR 
+Social Security number: 444444444 
+Checking Account Number: 852839 
+Credit Account Number: 038565 
+Checking Account Balance: 550.0
+Credit Account Balance: 0.0 
+Credit Limit : 600.0
+
+First Name: Ruben 
+Last Name: SALAZAR 
+Social Security number: 555555555 
+Checking Account Number: 486053 
+Credit Account Number: 397987 
+Checking Account Balance: 750.0
+Credit Account Balance: 0.0 
+Credit Limit : 630.0
+
+First Name: Naruto 
+Last Name: Uzamaki 
+Social Security number: 777777777 
+Checking Account Number: 992330 
+Credit Account Number: 054998 
+Checking Account Balance: 800.0
+Credit Account Balance: 0.0 
+Credit Limit : 0.0
+
+First Name: Buzz 
+Last Name: lightyear 
+Social Security number: 999999999 
+Checking Account Number: 173025 
+Credit Account Number: 795313 
+Checking Account Balance: 900.0
+Credit Account Balance: 0.0 
+Credit Limit : 0.0
+
+First Name: Jim 
+Last Name: Raynor 
+Social Security number: 101010101 
+Checking Account Number: 109352 
+Credit Account Number: 996308 
+Checking Account Balance: 1000.0
+Credit Account Balance: 0.0 
+Credit Limit : 0.0
+

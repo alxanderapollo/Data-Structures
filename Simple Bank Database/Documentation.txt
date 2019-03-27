@@ -1,0 +1,56 @@
+Written by Alex Salazar
+03/6/19
+This is my  Documentation file to Project 1
+
+Purpose of the project: The project creates a simple data base that reads information from an input.txt file. The information taken from the input file
+creates a series of bank accounts that can vary from only having a checking account and a Credit Account. The Program has methods that enable the user
+to deposit, withdraw from their checking account, Pay back and use a credit account. The data base also logs each transaction and outputs a file.
+ It also creates another file with all the accounts created in their present states. For this project i created/used 7 files.
+ 
+Main file: The main file takes the input.txt file, and outputs two files, the log and results.txt
+The main file does all the reading which i wrote to take 6 words at a time and store it in a temp array. I then create an instance of the backend class and send the temp array
+To the backend Read method. Using the createFile class i generate the results file which will store the state of the objects at the end of a run of the program, and i also create another file
+which is the log using the createfile class which logs each transaction done 
+ 
+API: is the interface file  which is the blueprint for the functionality of the bankAccount class
+it holds all the methods necessary to deposit, withdraw, useCredit and pay back credit.
+ 
+BankAccount: is a class that inherits all the Members from the super class known as "Members"
+and implements all the methods from the interface. All transactions are done here, Also unique to this class
+is that once an object is created with all the information, it generates a checking, and if a credit account was meant to be made,
+account numbers for both. This is unique to the user. i do this by using a Random Generator so that no admin could ever go and change account numbers.
+The bank account also allows for printing all the relevant account information.
+ 
+ArrayList: is a generic class, in my project i made it so that this container would take an array of objects.This class has all general
+methods found within an array list class it also allows in the case of not having enough space to double its containing size.
+
+Members: the members class is the super class, it is responsible for creating and hold the users first, last name, and social security #'s
+it also returns a string with all the relevant object information. 
+
+CreateFile: is a class that takes information as a String and then prints it to .txt file.
+
+Backend: The Backend class is responsible for containing everything. in this file i create instances of the arraylist, and also hashMap
+The back end receives all the information in its read method as an array with 6 elements within the container. Based on what is contained
+within the first element of the array, the switch statement sends the parameters to the Add, deposit, withdraw, payCredit Card, useCredit Card methods, or removeAccount
+methods. This class verifies using the clients Social Security #, before any transactions are performed The program first checks if such a person exists within the system. 
+The remove account method is something unique to this class it is not found in the API, it enables an admin to remove an account from the hashmap and array list.
+This class returns a string known as a record log with all the transactions done, and prints all final states of the objects. 
+
+---->input, Results, log files<-----
+InputFile: all the information is customly inputed on a line there are 6 words with spaces in between. this was on purpose so that i could get six words at a time and store them into a temp array
+which would be sent to the backend class.
+
+Log: comes from returning a string in the backend class which contains all the transactions done for each object. 
+Results: comes from calling the tostring method which at the conclusion of run cycle the project prints all the objects at their final state. 
+
+
+
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 

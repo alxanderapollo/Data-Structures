@@ -1,0 +1,23 @@
+Successfully Created account with name: ALEX SALAZAR Checking Account number: 976495 
+Successfully Created account with name: CAMI SALAZAR Checking Account number: 643160 
+Successfully Created account with name: Thomas Anderson Checking Account number: 716887 
+Successfully Created account with name: Luz SALAZAR Checking Account number: 852839 
+Successfully Created account with name: Ruben SALAZAR Checking Account number: 486053 
+Successfully Created account with name: Jimi Hendrix Checking Account number: 195337 
+Successfully Created account with name: Naruto Uzamaki Checking Account number: 992330 
+Successfully Created account with name: Jospeh miller Checking Account number: 220311 
+Successfully Created account with name: Buzz lightyear Checking Account number: 173025 
+Successfully Created account with name: Jim Raynor Checking Account number: 109352 
+Checking Account Already exists: ALEX SALAZAR Continuing to the next one.
+Checking Account Already exists: CAMI SALAZAR Continuing to the next one.
+ALEX: Successfully Deposited $:2000 into Checking Account #: 976495 Remaining balance: 2040.3 
+CAMI: Successfully Deposited $:3000 into Checking Account #: 643160 Remaining balance: 4000.0 
+ALEX: Successfully Withdrawn $500 from Checking  account #: 976495 Remaining balance: 1540.3 
+CAMI: Successfully Withdrawn $1000 from Checking  account #: 643160 Remaining balance: 3000.0 
+ALEX: Successfully Used Credit amount of: 100 Remaining Credit: 400.0 Credit Balance: 100.0 
+CAMI: Successfully Used Credit amount of: 600 Remaining Credit: 400.0 Credit Balance: 600.0 
+ALEX: Successfully Made a payment of$: 50 To Credit Account #: 511654 Remaining Credit balance: 50.0  Remaining Checking  balance: 1490.3 
+CAMI: Successfully Made a payment of$: 300 To Credit Account #: 218698 Remaining Credit balance: 300.0  Remaining Checking  balance: 2700.0 
+Successfully Deleted Account number: 173025 Name: Buzz, lightyear Has been removed.
+Successfully Deleted Account number: 992330 Name: Naruto, Uzamaki Has been removed.
+
